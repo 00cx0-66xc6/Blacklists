@@ -1,0 +1,7 @@
+local BlacklistedWords = {
+	"fuck",
+	"nigger",
+	"nigga",
+	"child porn",
+	"porn"
+}
